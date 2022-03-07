@@ -1,2 +1,0 @@
-# kodeisak.github.io
-Portfolio
