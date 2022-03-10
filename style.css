@@ -252,6 +252,7 @@ a{
     
     .logo {
       grid-column: 2 / 3;
+      margin-top: 8px;
     }
     
     nav {
@@ -304,4 +305,3 @@ a{
       transform: scale(1,1);
     }
   }
-  
