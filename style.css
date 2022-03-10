@@ -70,7 +70,7 @@ a{
     left: 0;
     height: 100%;
     width: 0%;
-    background-color: rgba(220, 20, 60, 0.753);
+    background-color: rgba(220, 20, 60, 0.945);
     animation: text_reveal_box 1s ease;
     animation-delay: .3s;
 }
@@ -89,7 +89,7 @@ a{
     padding:  10px 30px;
     color: white;
     background-color: transparent;
-    border: 2px solid rgba(220, 20, 60, 0.74);
+    border: 2px solid rgba(220, 20, 60, 0.952);
     font-size: 2rem;
     text-transform: uppercase;
     letter-spacing: .1rem;
@@ -99,7 +99,7 @@ a{
 }
 #hero.cta:hover{
     color: white;
-    background-color: rgba(220, 20, 60, 0.74);
+    background-color: rgba(220, 20, 60, 0.938);
 }
 
 @keyframes text_reveal_box {
@@ -120,7 +120,7 @@ a{
 }
 @keyframes text_reveal_name {
     100% {
-        color: rgba(220, 20, 60, 0.829);
+        color: rgba(220, 20, 60, 0.966);
         font-weight: 500;
     }
 }
