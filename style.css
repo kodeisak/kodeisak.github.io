@@ -135,7 +135,7 @@ a{
   
   body {
     margin: 0;
-    background: #222;
+    background: rgba(77, 50, 50, 0.952);
     font-family: 'Work Sans', sans-serif;
     font-weight: 400;
   }
